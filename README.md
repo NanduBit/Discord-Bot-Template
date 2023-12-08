@@ -1,5 +1,5 @@
 <!-- Banner -->
-<center><a herf="https://github.com/NanduWasTaken/Walnut-Discord-Bot/tree/main#walnut"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Walnut&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></a></center>
+<center><a herf="https://github.com/NanduWasTaken/Walnut-Discord-Bot/tree/main#walnut"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=[BotName]&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></a></center>
 
 <!-- Logo -->
 <p align="center">
@@ -9,10 +9,10 @@
 </p>
 
 <!-- Title & Description -->
-  <h1 align="center">Walnut</h1>
+  <h1 align="center">[Bot Name & Your Bot Logo Above]</h1>
 
   <p align="center">
-    Walnut is an easy to use, advanced Discord multipurpose bot containing lot of commands.<br> It can do Moderation, Tickets, Radio, Games, Giveaways, Customisation, Economy, Leveling, Invites, Messages, Utilities, Suggestions, Server Stats etc.<br> Unfortunately the owners stopped at the peak and decided to put the source online of which I made an updated version. 
+    [BotName] is an easy to use, advanced Discord multipurpose bot containing lot of commands.<br> It can do Moderation, Tickets, Radio, Games, Giveaways, Customisation, Economy, Leveling, Invites, Messages, Utilities, Suggestions, Server Stats etc.<br> Unfortunately the owners stopped at the peak and decided to put the source online of which I made an updated version. 
     <br />
     <br /> 
     <a href="https://github.com/nanduwastaken/walnut-discord-bot/issues">Report Bug</a>
@@ -28,7 +28,7 @@
 
 ### Notice
 
-> You may not claim this as your own! The original source was created by [NanduWasTaken](https://github.com/NanduWasTaken). You should credit the orginal owners on your project if you are using this bot.
+> You may not claim this as your own! The original source was created by [Owner Name](https://github.com/NanduWasTaken). You should credit the orginal owners on your project if you are using this bot.
 
 > Walnut is a multipurpose Discord bot base on [Discord.js](https://github.com/Discordjs/discordjs)
 > If you like this repository, feel free to leave a star ⭐ to motivate me!
@@ -43,7 +43,7 @@
 - [x] Fun Commands
 - [x] Dynamic Help Command
 - [x] Easy to use
-- [x] Don't wanna host it yourself? [Use our public bot](https://discord.com/app)
+- [x] Don't wanna host it yourself? [Use our Public Bot](https://discord.com/app)
 
 ## Requirements
 
@@ -56,7 +56,7 @@
 Clone the repo by running
 
 ```bash
-git clone https://github.com/NanduWasTaken/Walnut-Discord-Bot
+git clone https://github.com/[User_Name]/[Repo_Name]
 ```
 
 Install the Required [Packages](https://github.com/NanduWasTaken/Walnut-Discord-Bot/tree/main#used-pakages--modules)
