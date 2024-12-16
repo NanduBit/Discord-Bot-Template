@@ -2,7 +2,8 @@ const { Client, GatewayIntentBits, Collection } = require("discord.js");
 const config = require("./config");
 const fs = require("node:fs");
 const path = require("node:path");
-require("./database/connect");
+//require("./database/connect");
+// uncomment this only if u want an mongodb database to work with
 require("./server");
 
 const client = new Client({
